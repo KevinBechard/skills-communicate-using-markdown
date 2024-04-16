@@ -10,3 +10,8 @@ $ git status
 ``` javascript
 var myVar = "Hello World!";
 ```
+# Task List
+
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] introduce myself to the world
